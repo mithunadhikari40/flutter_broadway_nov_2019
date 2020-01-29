@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "162117278346",
+    "firebase_url": "https://reactapp-238505.firebaseio.com",
+    "project_id": "reactapp-238505",
+    "storage_bucket": "reactapp-238505.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162117278346:android:0281bffd8677eb9e3feb73",
+        "android_client_info": {
+          "package_name": "np.com.mithun.demo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162117278346-u5lekep4t7q356qvpmlni3ga8pg37ili.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ5t5nwWrcQA1TZEeuW_f348Up6dYSy5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162117278346-u5lekep4t7q356qvpmlni3ga8pg37ili.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "162117278346-bl58hfdr3ef1fki3gnva5eo5055dqaqq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "np.com.mithun.recommedplaces"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162117278346:android:486ba06d8c85b2f93feb73",
+        "android_client_info": {
+          "package_name": "np.com.mithun.recommed_places"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162117278346-u5lekep4t7q356qvpmlni3ga8pg37ili.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ5t5nwWrcQA1TZEeuW_f348Up6dYSy5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162117278346-u5lekep4t7q356qvpmlni3ga8pg37ili.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "162117278346-bl58hfdr3ef1fki3gnva5eo5055dqaqq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "np.com.mithun.recommedplaces"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
