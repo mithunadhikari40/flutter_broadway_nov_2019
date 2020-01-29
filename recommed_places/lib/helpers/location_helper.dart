@@ -5,7 +5,7 @@ import 'package:http/http.dart' show get;
 
 class LocationHelper {
   static const String mapBoxApiKey =
-      "pk.eyJ1IjoiYWRoaWthcmktbWl0aHVuIiwiYSI6ImNrNGNlazEwOTBqN3YzZXBicWw3ZzdjaDcifQ.PTPsY8Dv4iXObiS4aJWlLg";
+      "your mapbox key here";
 
   static String generateLocationPreviewImage(LatLng latLng) {
     final url =
